@@ -12,6 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 git clone https://github.com/dashboard-hero/admin-dashboard-components-lite.git
 cd admin-dashboard-components-lite
+npm install
 npm run dev
 ```
 A hands-on approach is encouraged. Extensive documentation can be found here: https://dashboard-hero.gitbook.io/dashboard-hero/
