@@ -8,10 +8,10 @@ Too many get stuck on building decent UI - we aim to help developers of all back
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. A hands-on approach is encouraged. Extensive documentation can be found here: https://dashboard-hero.gitbook.io/dashboard-hero/
-
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 ```
 git clone https://github.com/dashboard-hero/admin-dashboard-components-lite.git
 cd admin-dashboard-components-lite
 npm run dev
 ```
+A hands-on approach is encouraged. Extensive documentation can be found here: https://dashboard-hero.gitbook.io/dashboard-hero/
